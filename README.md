@@ -11,7 +11,7 @@
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
 
-![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=radical)
+![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=green)
 
 ### Connect with me:
 
