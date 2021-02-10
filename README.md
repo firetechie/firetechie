@@ -43,7 +43,7 @@
 
 
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://www.cprogramming.com/)</a>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>]</a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.java.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.w3schools.com/js/DEFAULT.asp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.w3schools.com/html)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.w3schools.com/css)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>](https://www.w3schools.com/asp/default.ASP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://wordpress.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftsqlserver.svg' alt='microsoftsqlserver' height='40'>](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
 
