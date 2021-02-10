@@ -23,10 +23,10 @@
 
 ### Connect with me: <br>
 
-<a href="https://linkedin.com/in/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="firetechie" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.karunadu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.karunadu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="firetechie" height="30" width="40" /></a>
-<a href="https://www.twitter.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="firetechie" height="30" width="40" color="blue"/></a><br/><br>
+<a href="https://linkedin.com/in/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="firetechie" height="30" width="30" /></a>
+<a href="https://instagram.com/mr.karunadu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.karunadu" height="30" width="30" /></a>
+<a href="https://www.facebook.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="firetechie" height="30" width="30" /></a>
+<a href="https://www.twitter.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="firetechie" height="30" width="30" /></a><br/><br>
 
 ### Languages and Tools: <br>
 
