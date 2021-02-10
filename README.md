@@ -17,7 +17,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/firetechie/count.svg" />
-</p><br>
+</p><br><br>
 
 ![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=vision-friendly-dark)
 
