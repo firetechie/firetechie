@@ -7,6 +7,8 @@
 -💻 Detailed-oriented, responsible and committed engineer. <br>
 -🎀 Testing and delivering complex back-end and web applications using variety programming languages and technologies. <br>
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br>
+
+
 <img align="right" alt="Coding" width="400" src="http://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif">
 
 ![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie)
