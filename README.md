@@ -17,16 +17,16 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/firetechie/count.svg" />
-</p><br><br>
+</p><br>
 
-![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=vision-friendly-dark)<br><br>
+![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=vision-friendly-dark)<br>
 
 ### Connect with me: <br>
 
 <a href="https://linkedin.com/in/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="firetechie" height="20" width="20" /></a>
 <a href="https://instagram.com/mr.karunadu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.karunadu" height="20" width="20" /></a>
 <a href="https://www.facebook.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="firetechie" height="20" width="20" /></a>
-<a href="https://www.twitter.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="firetechie" height="20" width="20" /></a><br/><br>
+<a href="https://www.twitter.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="firetechie" height="20" width="20" /></a><br/>
 
 ### Languages and Tools: <br>
 
@@ -40,7 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br><br>
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br>
 
 🤓 **Interested:** <br>
 
