@@ -2,6 +2,8 @@
 
 [![Website](https://firetechie.ml/wp-content/uploads/2020/07/Logo.png)](https://firetechie.ml)
 
+[![Website](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)](https://firetechie.ml)
+
 ## Glad to see you here 🤩!!
 
 -💻 Detailed-oriented, responsible and committed engineer. <br>
