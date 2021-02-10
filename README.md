@@ -42,8 +42,6 @@
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 
-<br>
-
 🤓 **Interested:** <br>
 
 ![Freelancing](https://img.shields.io/badge/-Freelancing-000000?style=flat&logo=Freelancing&labelColor=21759B)
