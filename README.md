@@ -11,8 +11,6 @@
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
 
-<img alt="Coding" width="400" src="https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif">
-
 ![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie)
 
 ### Connect with me:
