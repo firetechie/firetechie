@@ -8,7 +8,7 @@
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
 
-<img align="right" alt="Coding" width="400" src="https://saweb.lk/img/back.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/MDyJRC9jrpKVUS9gWN/giphy.gif">
 
 ![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie)
 
