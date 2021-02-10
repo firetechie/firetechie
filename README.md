@@ -1,14 +1,14 @@
-### Hi there, Vishwanath Hegde [Fire Techie] 👋
+### Hi there, This is Vishwanath Hegde 👋
 
 [![Website](https://firetechie.ml/wp-content/uploads/2020/07/Logo.png)](https://firetechie.ml)
 
 ## Glad to see you here 🤩!!
 
 -💻 Detailed-oriented, responsible and committed engineer. <br>
--🎀 Testing and delivering complex back-end and web applications using variety programming languages and technologies. <br>
+-🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
 
-<img align="right" alt="Coding" width="400" src="http://www.lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif">
+<img align="right" alt="Coding" width="400" src="http://bptechnology.in/wp-content/uploads/2020/01/website-min.gif">
 
 ![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie)
 
