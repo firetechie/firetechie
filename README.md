@@ -46,4 +46,4 @@
 
 🤓 **Interested:** <br>
 
-![Website Freelancing](https://img.shields.io/badge/-Website-000000?style=flat&logo=Website-Freelancing&labelColor=21759B)
+![Freelancing](https://img.shields.io/badge/-freelancing-000000?style=flat&logo=Freelancing&labelColor=21759B)
