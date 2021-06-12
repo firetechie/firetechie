@@ -6,7 +6,7 @@
 
 ---
 
-[![Website](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)](https://firetechie.ml)
+[![Website](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)](https://firetechie.github.io)
 
 ## Glad to see you here 🤩!!
 
