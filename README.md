@@ -26,6 +26,16 @@
 <a href="https://www.facebook.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="firetechie" height="20" width="20" /></a>
 <a href="https://www.twitter.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="firetechie" height="20" width="20" /></a><br/>
 
+
+<a href="https://linkedin.com/in/firetechie" target="_blank">
+    <img align="left" alt="Vishwanath Hegde | Linkedin" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+<a href="https://instagram.com/mr.karunadu" target="_blank">
+    <img align="left" alt="Vishwanath Hegde | Instagram" width="24px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
+<a href="https://www.facebook.com/firetechie" target="_blank">
+    <img align="left" alt="Vishwanath Hegde | Facebook" width="24px" src="https://image.flaticon.com/icons/png/512/174/174848.png" /></a>
+<a href="https://www.twitter.com/firetechie" target="_blank">
+    <img align="left" alt="Vishwanath Hegde | Twitter" width="24px" src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a><br/>
+    
 ### Languages and Tools: <br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
