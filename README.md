@@ -7,7 +7,7 @@
 ## Glad to see you here 🤩!!
 
 -💻 Detailed-oriented, responsible and committed engineer. <br>
--🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
+-🎀<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="22px"> Testing and delivering complex back-end and web applications using variety programming technologies. <br>
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
 
 <p align="center"> 
