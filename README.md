@@ -2,6 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-vishwahegde27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwahegde27@gmail.com)](mailto:vishwahegde27@gmail.com)<br>
 
+---
+
 [![Website](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)](https://firetechie.ml)
 
 ## Glad to see you here 🤩!!
