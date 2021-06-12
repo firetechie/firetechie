@@ -17,6 +17,13 @@
   <img src="https://profile-counter.glitch.me/firetechie/count.svg" />
 </p><br>
 
+<p align="center">
+<a href="https://github.com/firetechie">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=vision-friendly-dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firetechie&theme=vision-friendly-dark&layout=compact" />
+</a>
+</p>
+
 ![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=vision-friendly-dark)<br>
 
 ### Connect with me: <br>
