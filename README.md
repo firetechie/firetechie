@@ -1,6 +1,8 @@
 ### Hi there, This is Vishwanath Hegde 👋<br>
 
-[![Gmail Badge](https://img.shields.io/badge/-vishwahegde27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwahegde27@gmail.com)](mailto:vishwahegde27@gmail.com)<br>
+[![Gmail Badge](https://img.shields.io/badge/-vishwahegde27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwahegde27@gmail.com)](mailto:vishwahegde27@gmail.com) &nbsp; 
+[![Gmail Badge](https://img.shields.io/badge/-vishwahegde1996@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwahegde1996@gmail.com)](mailto:vishwahegde1996@gmail.com)
+<br>
 
 ---
 
