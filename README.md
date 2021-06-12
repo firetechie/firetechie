@@ -33,13 +33,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red&labelColor=white) 
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red&labelColor=white)
+![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&labelColor=323330)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&labelColor=ff0000)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=007ACC)<br>
 
 🤓 **Interested:** <br>
