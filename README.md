@@ -38,7 +38,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br>
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&labelColor=ff0000)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=007ACC)<br>
 
 🤓 **Interested:** <br>
 
