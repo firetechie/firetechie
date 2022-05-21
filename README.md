@@ -29,7 +29,7 @@
 ### Connect with me: <br>
 
 <a href="https://linkedin.com/in/firetechie" target="_blank">
-    <img align="left" alt="Vishwanath Hegde | Linkedin" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+    <img align="left" alt="Vishwanath Hegde | Linkedin" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" /></a>
 <a href="https://instagram.com/mr.karunadu" target="_blank">
     <img align="left" alt="Vishwanath Hegde | Instagram" width="24px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
 <a href="https://www.facebook.com/firetechie" target="_blank">
