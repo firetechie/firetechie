@@ -31,11 +31,11 @@
 <a href="https://linkedin.com/in/firetechie">
     <img align="left" target="_blank" alt="Vishwanath Hegde | Linkedin" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" /></a>
 <a href="https://instagram.com/mr.karunadu" target="_blank">
-    <img align="left" alt="Vishwanath Hegde | Instagram" width="24px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" /></a>
+    <img align="left" alt="Vishwanath Hegde | Instagram" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" /></a>
 <a href="https://www.twitter.com/firetechie" target="_blank">
-    <img align="left" alt="Vishwanath Hegde | Twitter" width="24px" src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
+    <img align="left" alt="Vishwanath Hegde | Twitter" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" /></a>
 <a href="https://www.facebook.com/firetechie" target="_blank">
-    <img align="left" alt="Vishwanath Hegde | Facebook" width="24px" src="https://image.flaticon.com/icons/png/512/174/174848.png" /></a><br/>
+    <img align="left" alt="Vishwanath Hegde | Facebook" width="24px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" /></a><br/>
     
 ### Languages and Tools: <br>
 
