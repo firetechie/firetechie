@@ -30,6 +30,8 @@
 
 <a href="https://linkedin.com/in/firetechie">
     <img align="left" target="_blank" alt="Vishwanath Hegde | Linkedin" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" /></a>
+<a href="https://join.skype.com/invite/kGeZdLNeZxfB">
+    <img align="left" alt="Vishwanath Hegde | Skype" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_17-skype-1024.png" /></a>     
 <a href="https://instagram.com/mr.karunadu">
     <img align="left" alt="Vishwanath Hegde | Instagram" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" /></a>
 <a href="https://wa.me/message/ZXBACKJZHJLEF1">
