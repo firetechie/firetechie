@@ -15,7 +15,7 @@
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
 
 <p align="center"> 
-  Visitor count &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="12px"><br>
+  Visitor count &nbsp; <img src="https://bestanimations.com/media/earth/726892854earth-spinning-rotating-animation-14.gif" width="12px"><br>
   <img src="https://profile-counter.glitch.me/firetechie/count.svg" />
 </p><br>
 
