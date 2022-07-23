@@ -8,7 +8,7 @@
 
 [![Website](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)](https://firetechie.github.io)
 
-## Glad to see you here 🤩!!
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Glad to see you here 🤩!!
 
 -💻 Detailed-oriented, responsible and committed engineer. <br>
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
