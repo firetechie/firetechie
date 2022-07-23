@@ -44,7 +44,7 @@
 <a href="https://www.facebook.com/firetechie">
     <img align="left" alt="Vishwanath Hegde | Facebook" width="24px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" /></a><br/>
     
-### Languages and Tools: <br>
+### :hammer_and_wrench: Languages and Tools: <br>
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&labelColor=ff0000)
 ![React JS](https://img.shields.io/badge/-React-ffffff?style=flat&logo=react&labelColor=000000)
