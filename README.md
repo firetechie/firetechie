@@ -38,9 +38,7 @@
 <a href="https://instagram.com/mr.karunadu">
     <img align="left" alt="Vishwanath Hegde | Instagram" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" /></a>
 <a href="https://wa.me/message/ZXBACKJZHJLEF1">
-    <img align="left" alt="Vishwanath Hegde | WhatsApp" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-1024.png" /></a>  
-<a href="https://www.twitter.com/firetechie">
-    <img align="left" alt="Vishwanath Hegde | Twitter" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" /></a>
+    <img align="left" alt="Vishwanath Hegde | WhatsApp" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-1024.png" /></a>
 <a href="https://www.facebook.com/firetechie">
     <img align="left" alt="Vishwanath Hegde | Facebook" width="24px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" /></a><br/>
     
