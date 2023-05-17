@@ -37,8 +37,6 @@
     <img align="left" alt="Vishwanath Hegde | Skype" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_17-skype-1024.png" /></a>     
 <a href="https://instagram.com/mr.karunadu">
     <img align="left" alt="Vishwanath Hegde | Instagram" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" /></a>
-    
-
 <a href="https://www.facebook.com/firetechie">
     <img align="left" alt="Vishwanath Hegde | Facebook" width="24px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" /></a><br/>
     
