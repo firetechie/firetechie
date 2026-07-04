@@ -16,11 +16,11 @@
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count &nbsp;
   <img src="https://bestanimations.com/media/earth/726892854earth-spinning-rotating-animation-14.gif" width="6%" height="6%"><br><br>
   <img src="https://profile-counter.glitch.me/firetechie/count.svg" />
-</p><br>
+</p><br> -->
 
 <p align="center">
 <a href="https://github.com/firetechie">
